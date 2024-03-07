@@ -6,3 +6,7 @@ This is a project about **Travelling salesman problem.**
 * **tsp_random.py** means that it will pick the node in random.
 * **tsp_with_2opt.py** means that it also has 2-opt alogorithm
   
+# 如何執行generate_TSP.py
+```
+python3 generate_TSP.py -n -k -u -v
+```
